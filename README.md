@@ -1,4 +1,4 @@
-# Resume Builder Project
+# Resume Builder User Interface
 Welcome to the Resume Builder Project! The project features a sleek and user-friendly login and signup page to ensure a seamless user experience.
 
 ![HTML](https://img.shields.io/badge/Markup_Language-HTML-brightgreen) 
